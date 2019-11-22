@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/data-structure/tree/HuffmanCode/HuffmanCode.iml" filepath="$PROJECT_DIR$/data-structure/tree/HuffmanCode/HuffmanCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/tree/avl/avl.iml" filepath="$PROJECT_DIR$/data-structure/tree/avl/avl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/tree/binarysorttree/binarysorttree.iml" filepath="$PROJECT_DIR$/data-structure/tree/binarysorttree/binarysorttree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/data-structure.iml" filepath="$PROJECT_DIR$/data-structure/data-structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dataStructureAndalgorithm.iml" filepath="$PROJECT_DIR$/.idea/dataStructureAndalgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/graph/graph.iml" filepath="$PROJECT_DIR$/data-structure/graph/graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/hashtab/hashtab.iml" filepath="$PROJECT_DIR$/data-structure/hashtab/hashtab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/data-structure/linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/queue/queue.iml" filepath="$PROJECT_DIR$/data-structure/queue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/recursion/recursion.iml" filepath="$PROJECT_DIR$/data-structure/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/search/search.iml" filepath="$PROJECT_DIR$/data-structure/search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/sort/sort.iml" filepath="$PROJECT_DIR$/data-structure/sort/sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/sparsearray/sparsearray.iml" filepath="$PROJECT_DIR$/data-structure/sparsearray/sparsearray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/stack/stack.iml" filepath="$PROJECT_DIR$/data-structure/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/tree/threadedbinarytree/threadedbinarytree.iml" filepath="$PROJECT_DIR$/data-structure/tree/threadedbinarytree/threadedbinarytree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/tree/tree.iml" filepath="$PROJECT_DIR$/data-structure/tree/tree.iml" />
+    </modules>
+  </component>
+</project>

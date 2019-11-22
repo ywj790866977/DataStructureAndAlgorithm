@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="search" />
+        <module name="graph" />
+        <module name="algorithm" />
+        <module name="queue" />
+        <module name="HuffmanCode" />
+        <module name="linkedlist" />
+        <module name="recursion" />
+        <module name="threadedbinarytree" />
+        <module name="binarysorttree" />
+        <module name="sort" />
+        <module name="sparsearray" />
+        <module name="avl" />
+        <module name="stack" />
+        <module name="hashtab" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="algorithm" target="11" />
+      <module name="avl" target="11" />
+      <module name="binarysorttree" target="11" />
+      <module name="data-structure" target="11" />
+      <module name="graph" target="11" />
+      <module name="hashtab" target="11" />
+      <module name="HuffmanCode" target="11" />
+      <module name="linkedlist" target="11" />
+      <module name="queue" target="11" />
+      <module name="recursion" target="11" />
+      <module name="search" target="11" />
+      <module name="sort" target="11" />
+      <module name="sparsearray" target="11" />
+      <module name="stack" target="11" />
+      <module name="threadedbinarytree" target="11" />
+      <module name="tree" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

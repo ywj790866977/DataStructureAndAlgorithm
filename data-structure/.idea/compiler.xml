@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="recursion" />
+        <module name="stack" />
+        <module name="sort" />
+        <module name="hashtab" />
+        <module name="HuffmanCode" />
+        <module name="binarysorttree" />
+        <module name="linkedlist" />
+        <module name="graph" />
+        <module name="search" />
+        <module name="avl" />
+        <module name="queue" />
+        <module name="threadedbinarytree" />
+        <module name="sparsearray" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>

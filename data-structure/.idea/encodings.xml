@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/graph" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hashtab" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedlist" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/queue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/recursion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sort" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sparsearray" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stack" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tree" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tree/HuffmanCode" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tree/avl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tree/binarysorttree" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tree/threadedbinarytree" charset="UTF-8" />
+  </component>
+</project>

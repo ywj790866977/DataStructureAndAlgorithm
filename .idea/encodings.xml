@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/algorithm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/graph" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/hashtab" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/linkedlist" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/queue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/recursion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/sort" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/sparsearray" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/stack" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/tree" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/tree/HuffmanCode" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/tree/avl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/tree/binarysorttree" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-structure/tree/threadedbinarytree" charset="UTF-8" />
+  </component>
+</project>
