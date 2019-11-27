@@ -1,4 +1,4 @@
-package com.yanlaoge.knapsackproblem;
+package com.yanlaoge.dynamic;
 
 /**
  * @ClassName: KnapsackProlem
